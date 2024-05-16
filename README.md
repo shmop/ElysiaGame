@@ -1,2 +1,3 @@
 # ElysiaGame
-Demo of Elysia Game and some examples of related code
+Some records of a two-person project that I spent 2 years on.
+
